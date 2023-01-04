@@ -1,12 +1,12 @@
-# auto install clash for termux
+# Auto install clash for termux
 
-$ pkg update && pkg upgrade - y
+1. pkg update && pkg upgrade - y
 
-$ pkg install wget
+2. pkg install wget
 
-$ wget https://raw.githubusercontent.com/budijoi/yacd/master/yacd.sh && chmod +x yacd.sh && ./yacd.sh
+3. wget https://raw.githubusercontent.com/budijoi/yacd/master/yacd.sh && chmod +x yacd.sh && ./yacd.sh
 
-#edit config vmess, trojan, ss, tr-go dengan perintah
+#edit config vmess, trojan, ss, tr-go dengan pilihan di menu.
 $ cara simpan tekan ctrl + q & y
 
 #set di proxy & port di aksespoinname/apn.
