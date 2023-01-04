@@ -4,7 +4,7 @@ $ pkg update && pkg upgrade - y
 
 $ pkg install wget
 
-$ wget https://raw.githubusercontent.com/Alamyazid/yacd-gh-pages/master/yacd.sh && chmod +x yacd.sh && ./yacd.sh
+$ wget https://raw.githubusercontent.com/budijoi/yacd/master/yacd.sh && chmod +x yacd.sh && ./yacd.sh
 
 #edit config vmess, trojan, ss, tr-go dengan perintah
 $ cara simpan tekan ctrl + q & y
